@@ -13,6 +13,11 @@ var navigationItems = [
         name: "CalcMedia",
         href: "https://github.com/oDragonGuysPc/CalcMedia/",
         icon: "fab fa-windows"
+    },
+    {
+        name: "UNO Game Website",
+        href: "https://odragonguyspc.github.io/UNO-Game/website/",
+        icon: "fas fa-dice-d6",
     }
 ]
 
